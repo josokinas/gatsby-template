@@ -6,7 +6,7 @@
 
 ## Get started
 
-You will need Node 14 running locally.
+You will need Node 12 running locally.
 
 ### Install dependencies
 
