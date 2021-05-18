@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gatsby-template',
   siteMetadata: {
     title: 'Gatsby template',
   },
