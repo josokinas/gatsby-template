@@ -47,9 +47,3 @@ To install and switch to a required version run:
     npm run release
 
 This will bump a version, also add a CHANGELOG entry based on commits between releases.
-
-### Deployment
-
-By default site is deployed to GitHub Pages (branch `gh-pages`).
-
-`ACCESS_TOKEN` secret of a personal access token with "repo" scope must be added to the repository.
